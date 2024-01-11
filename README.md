@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KilianLeD
 - 👀 I’m interested in a lot of things but mostly games and coding 
-- 🌱 I’m currently learning gonna start React as my first JS framework
+- 🌱 I’m currently gonna start learning React as my first JS framework
 - 💞️ I’m looking to collaborate on anything to learn more 
 - 📫 How to reach me kilianldpro@gmail.com
 
